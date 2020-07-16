@@ -6,6 +6,8 @@ header.
 The expectation is that this app is configured to only accept connections from an API Gateway and that the API
 Gateway sets the expected header once the user has authenticated.
 
+tutorial video [tutorial video](https://www.youtube.com/watch?v=JUll6Dgu_pI
+
 This example uses the [Kong](https://getkong.org/) API Gateway connected to [Okta](https://okta.com) 
 using [OIDC](http://openid.net/specs/openid-connect-core-1_0.html) via the 
 [Kong OIDC Plugin](https://github.com/nokia/kong-oidc).
